@@ -1,6 +1,5 @@
 # Python
-###Frequenty used Python 3 snippets
-
+### Frequenty used Python 3 snippets
 ```python
 $pip install virtualenv
 
